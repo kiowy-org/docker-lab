@@ -53,7 +53,7 @@ Installez vim dans le conteneur mariadbtest.
 
 ## Exercice 3
 
-Remplisez le Dockerfile présent dans le dossier `2_docker_flask`.
+Remplisez le Dockerfile présent dans le dossier `3_docker_flask`.
 
 Les étapes suivantes sont nécessaires pour faire fonctionner le serveur, à vous de traduire via la [syntaxe Dockerfile](https://docs.docker.com/engine/reference/builder/).
 
@@ -69,7 +69,7 @@ Le serveur écoute sur le port 5000 par défaut
 
 ## Exercice 4
 
-En utilisant les fichiers dans le dossier `3_docker_volume`, exécutez le serveur en montant le fichier de template dans votre conteneur.
+En utilisant les fichiers dans le dossier `4_docker_volume`, exécutez le serveur en montant le fichier de template dans votre conteneur.
 
 ## Exercice 5
 
